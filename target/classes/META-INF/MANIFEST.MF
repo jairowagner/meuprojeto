@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: admin
+Build-Jdk: 9.0.4
+Implementation-Title: demo-data
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: br.edu.ifrs
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/demoWeb
+Created-By: Maven Integration for Eclipse
+
